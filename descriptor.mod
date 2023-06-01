@@ -3,7 +3,7 @@ tags={
 	"Leaders"
 	"Technologies"
 }
-name="More Leaders Cap Tech 3.8"
+name="More Leaders Cap Tech"
 picture="thumbnail.png"
-supported_version="3.8.2"
+supported_version="3.8.*"
 remote_file_id="2974156423"
