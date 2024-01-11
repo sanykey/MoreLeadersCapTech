@@ -1,5 +1,5 @@
 search_for_talent = {
-	length = @EdictPerpetual
+	length = -1
 	icon = "GFX_edict_type_policy"
 
 	resources = {
